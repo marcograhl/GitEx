@@ -3,6 +3,10 @@ console.log("This is a Test");
 console.log("This is a Test");
 console.log("This is a Test");
 
+function new() {
+  console.log("nw");
+}
+
 function init() {
   console.log("los geht es no way");
 }
