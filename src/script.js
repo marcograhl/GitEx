@@ -7,3 +7,7 @@ function init() {
 function featureClick() {
   console.log("what");
 }
+
+function newTag() {
+  console.log("hi");
+}
