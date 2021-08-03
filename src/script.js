@@ -11,3 +11,7 @@ function featureClick() {
 function newTag() {
   console.log("hi");
 }
+
+function newFeature() {
+  console.log("new feature track");
+}
